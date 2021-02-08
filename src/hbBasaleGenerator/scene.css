@@ -1,0 +1,5 @@
+#main{
+    -fx-background-image: url("/backgroundappimage.jpg");
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
